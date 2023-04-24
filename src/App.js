@@ -17,6 +17,7 @@ function App() {
         >
           Learn React
         </a>
+        <h1>This is demo react page deployed using Docker</h1>
       </header>
     </div>
   );
